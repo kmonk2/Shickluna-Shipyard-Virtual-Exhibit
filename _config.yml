@@ -30,7 +30,7 @@ author: kmonk2
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: dsitestmetadata
+metadata: shicklunaexhibitmetadata
 
 ##########
 # GOOGLE SERVICES [optional!]
