@@ -1,12 +1,12 @@
-objectid,title,format,filename,date,subject,location,latitude,longitude
-item1,Chamber Pot ,image/jpeg,alcock.jpg,2019,ceramic ,inside,46.60536504,-108.6770298
-item2,Ceramic Plate 1,image/jpeg,queensroyalhotel.jpg,2019,ceramic ,inside,-7.474317615,-55.92085104
-item3,Ceramic Plate 2,image/jpeg,tfurnival.jpg,2019,ceramic ,inside,-3.266923675,19.82609626
-item4,Ceramic Plate 3,image/jpeg,transferware.jpg,2019,ceramic ,inside,62.1871877,7.978362996
-item5,Ceramic Plate 4,image/jpeg,pearlware.jpg,2019,ceramic ,inside,44.83612235,-78.89435924
-item6,Serving Plate 1,image/jpeg,oyster.jpg,2019,ceramic ,inside,30.24022303,117.9212613
-item7,Face Cream,image/jpeg,ponds.jpg,2019,ceramic ,inside,62.33102567,-121.7254993
-item8,Perfume Bottle,image/jpeg,perfume.jpg,2019,glass,inside,51.56694335,-0.447817963
-item9,Medicinal Bottle ,image/jpeg,vicks.jpg,2019,glass,inside,68.03212086,33.4406217
-item10,Serving Plate 2,image/jpeg,depression.jpg,2019,glass,inside,74.28507871,-41.85003189
-item11,Shickluna Shipyard,image/jpeg,shipyardlitho,2019,lithograph,outside,43.152523,-79.248882
+objectid,title,format,filename,site date,subject,location,functional category,,latitude,longitude
+item1,Chamber Pot ,image/jpeg,alcock.jpg,1891-1900,ceramic ,operation area  3,household,,43.15238,-79.248569
+item2,Ceramic Plate 1,image/jpeg,queensroyalhotel.jpg,1900-1918,ceramic ,opeartiona area 3,food and beverage,,43.15238,-79.248569
+item3,Ceramic Plate 2,image/jpeg,tfurnival.jpg,1871-1876,ceramic ,opeartion area 3,food and beverage,,43.15238,-79.248569
+item4,Ceramic Plate 3,image/jpeg,transferware.jpg,1832-1847,ceramic ,operation area 1,food and beverage,,43.151437,-79.247901
+item5,Ceramic Plate 4,image/jpeg,pearlware.jpg,1860-1880,ceramic ,operation area 1,food and beverage,,43.151437,-79.247901
+item6,Serving Plate 1,image/jpeg,oyster.jpg,1912-1918,ceramic ,operation area 1,food and beverage,,43.151437,-79.247901
+item7,Face Cream,image/jpeg,ponds.jpg,1910-1940,ceramic ,operation area 1,health and beauty,,43.151437,-79.247901
+item8,Perfume Bottle,image/jpeg,perfume.jpg,1890-1920,glass,operation area 3,health and beauty,,43.15238,-79.248569
+item9,Medicinal Bottle ,image/jpeg,vicks.jpg,1910-1930,glass,operation area 3,health and beauty,,43.15238,-79.248569
+item10,Serving Plate 2,image/jpeg,depression.jpg,1931-1937,glass,operation area 1,food and beverage,,43.151437,-79.247901
+item11,Shickluna Shipyard,image/jpeg,shipyardlitho.jpg,1870-1880,lithograph,visual art,commercial advertisement,,43.152523,-79.248882
